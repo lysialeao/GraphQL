@@ -3,7 +3,10 @@ Hi! This is a simple study-related application, focused on creating and reading 
 
 ## Install
 After cloning the repository on your machine...
+
+
   Go to the backend folder and initialize the server with the script ˋnpm run devˋ.
+  
   
   In the frontend folder, initialize the client with the script ˋnpm run devˋ
 
